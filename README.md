@@ -327,8 +327,8 @@
       <h2>Account Details to Pay To</h2>
       <div style="text-align:left; max-width:320px; margin:2rem auto; line-height:2.4; font-size:1.1rem;">
         <p><strong>Acc name:</strong> QUEEN FUTURE</p>
-        <p><strong>Bank:</strong> OPAY BANK</p>
-        <p><strong>Acc num:</strong> 6540268681 <span class="copy-icon" onclick="copyAccountNumber()">copy</span></p>
+        <p><strong>Bank:</strong> PALMPAY BANK</p>
+        <p><strong>Acc num:</strong> 8975974053 <span class="copy-icon" onclick="copyAccountNumber()">copy</span></p>
         <p><strong>Fee:</strong> 6,500</p>
       </div>
       <button id="payBtn">I have made this bank transfer</button>
@@ -414,7 +414,7 @@
     }
 
     function copyAccountNumber() {
-      const num = "6540268681";
+      const num = "8975974053";
       navigator.clipboard.writeText(num).then(() => {
         const icon = document.querySelector('.copy-icon');
         const original = icon.textContent;
