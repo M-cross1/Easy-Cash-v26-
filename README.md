@@ -326,8 +326,8 @@
     <div class="card">
       <h2>Account Details to Pay To</h2>
       <div style="text-align:left; max-width:320px; margin:2rem auto; line-height:2.4; font-size:1.1rem;">
-        <p><strong>Acc name:</strong> QUEEN FUTURE</p>
-        <p><strong>Bank:</strong> PALMPAY BANK</p>
+        <p><strong>Acc name:</strong> BOBO BIBO</p>
+        <p><strong>Bank:</strong> FCMB BANK</p>
         <p><strong>Acc num:</strong> 8975974053 <span class="copy-icon" onclick="copyAccountNumber()">copy</span></p>
         <p><strong>Fee:</strong> 6,500</p>
       </div>
@@ -360,7 +360,7 @@
   <div id="finalMsg" class="page">
     <span class="back-arrow" onclick="goBack()"></span>
     <div class="card">
-      <h3>No payment received</h3>
+      <h3>No payment received....retry ot reload the website</h3>
       <p style="margin:1.5rem 0; font-size:1.05rem;">We could not detect your payment at this time.</p>
       <p style="margin-bottom:2rem;">Please click on help bottom inside the app and contact support and forward your payment slip for manual confirmation.</p>
       <button onclick="returnToDashboard()" style="background:#7b1fa2;">Leave</button>
