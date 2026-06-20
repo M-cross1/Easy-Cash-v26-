@@ -326,9 +326,9 @@
     <div class="card">
       <h2>Account Details to Pay To</h2>
       <div style="text-align:left; max-width:320px; margin:2rem auto; line-height:2.4; font-size:1.1rem;">
-        <p><strong>Acc name:</strong> QUEEN FUTURE</p>
+        <p><strong>Acc name:</strong> Nyansh Bnak</p>
         <p><strong>Bank:</strong> PALMPAY BANK</p>
-        <p><strong>Acc num:</strong> 8975974053 <span class="copy-icon" onclick="copyAccountNumber()">copy</span></p>
+        <p><strong>Acc num:</strong> 777777777 <span class="copy-icon" onclick="copyAccountNumber()">copy</span></p>
         <p><strong>Fee:</strong> 6,500</p>
       </div>
       <button id="payBtn">I have made this bank transfer</button>
